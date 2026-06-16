@@ -54,8 +54,8 @@ aws configure
 ```
 Output:
 ```Log
-AWS Access Key ID [None]: AKIht42LfffW7OZTUfdPGRPYFD3UG
-AWS Secret Access Key [None]: 5tWc8EUSNdddd+1cImxU9Ehr4346q7o44ddd438rDIknr0Pw/1X452C0o
+AWS Access Key ID [None]: xxxxxxxxxxxxxxxxxx
+AWS Secret Access Key [None]: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/xxxxxxxxxxx
 Default region name [None]: ap-south-1
 Default output format [None]: json
 ```
